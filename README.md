@@ -7,11 +7,19 @@
 | CAN Task | 5ms | 100ms | 100ms |1|
 
 *all times are in ticks set at 1kHz, therefore 1000 ticks = 1 second*
-![IMG-20220520-WA0009](https://user-images.githubusercontent.com/66686446/183115027-b4b06ece-7ec9-480e-9d3a-bee0af69f1a6.jpg)
-![IMG-20220520-WA0010](https://user-images.githubusercontent.com/66686446/183115030-10632370-2690-4ff4-8724-797c5e3f7258.jpg)
 
 
 
+<p align="center">
+  <img alt="Light" src="https://cdn.sparkfun.com//assets/parts/1/3/3/2/0/15005-SparkFun_GPS-RTK__Qwiic__-_NEO-M8P-2-00.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://alselectro.files.wordpress.com/2018/11/stm32_ok2.jpg" width="45%">
+</p>
+<p align="center">
+  <img alt="Light" src="https://user-images.githubusercontent.com/66686446/183115027-b4b06ece-7ec9-480e-9d3a-bee0af69f1a6.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://user-images.githubusercontent.com/66686446/183115030-10632370-2690-4ff4-8724-797c5e3f7258.jpg" width="45%">
+</p>
 
 ![Screenshot (1425)](https://user-images.githubusercontent.com/66686446/183111821-e6ab1b63-d017-4fcb-b54e-e6a8fdb3167c.png)
 
