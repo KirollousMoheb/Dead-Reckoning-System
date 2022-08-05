@@ -1,7 +1,6 @@
 # Dead Reckoning System
  
-[![COM6_-_PuTTY_2022-01-02_18-19-58_AdobeExpress](https://i.im.ge/2022/08/05/FcErMP.COM6-PuTTY-2022-01-02-18-19-58-AdobeExpress.gif)](https://im.ge/i/FcErMP)
-
+[![COM6_-_PuTTY_2022-01-02_18-19-58_AdobeExpress](https://i.im.ge/2022/08/05/FcErMP.COM6-PuTTY-2022-01-02-18-19-58-AdobeExpress.md.gif)](https://im.ge/i/FcErMP)
 
 | Task     | Execution time   | Relative Deadline  | Periodicity  | Priority
 | ------------- |:----------:| -----:| -----:|-----:|
